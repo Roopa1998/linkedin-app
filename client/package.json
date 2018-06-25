@@ -1,0 +1,26 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "mongodb": "^2.2.35",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-markdown": "^3.3.4",
+    "react-router": "^3.2.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "react-scripts test --env=jsdom",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:5000",
+  "author": "",
+  "license": "ISC"
+}
